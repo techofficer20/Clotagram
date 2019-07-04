@@ -1,0 +1,5 @@
+.header_contents,
+.header_column,
+.header_column a {
+  display: flex;
+}
